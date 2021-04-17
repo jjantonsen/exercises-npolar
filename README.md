@@ -6,7 +6,9 @@ Implemented in Python. Requires Python v3 and Pandas. Output is written to _01_l
 
 To run, execute the shell script:
 
-`01_list_expeditions.sh`
+```
+01_list_expeditions.sh
+```
 
 ## Exercise 2
 Implemented with chart.js.
