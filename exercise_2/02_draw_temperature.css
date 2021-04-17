@@ -1,0 +1,8 @@
+body {
+    padding: 16px;
+    font-family: Helvetica, Verdana, Geneva, Tahoma, sans-serif
+}
+
+.graph-container {
+    height: 400px;
+}
